@@ -1,4 +1,4 @@
 # Astar
 AStar algorithm
 
-This is my own first protect, so .. mark it.
+This is my own first project, so .. mark it.
